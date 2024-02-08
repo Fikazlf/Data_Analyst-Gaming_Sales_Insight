@@ -35,3 +35,6 @@ Visualizations are provided for each analysis using bar charts and scatter plots
 To replicate the analysis:
 1. Install the required libraries: `pip install pandas matplotlib`
 2. Run the provided Python script to load and analyze the dataset.
+
+## Author
+Syafika Zalfanissa Dila
